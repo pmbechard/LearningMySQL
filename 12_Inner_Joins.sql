@@ -7,6 +7,8 @@
 /*
 JOIN combines two tables based on some matching parameter (usually Foreign Key)
 orders is shown first and then customers
+INNER JOIN = JOIN but the INNER is implied and therefore unnecessary
+INNER refers to tables within the same data base
 */
 
 -- SELECT order_id, first_name, last_name
